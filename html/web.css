@@ -1,0 +1,134 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+body
+{
+	color:#ffffff;
+	font-family:sans-serif;
+	background:#000;
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+a
+{
+	color:#ffffff;
+}
+
+#version
+{
+	padding-top:20px;
+	text-align:center;
+	font-size:12px;
+}
+
+.instruction
+{
+	padding:10px;
+	width:300px;
+}
+
+.instruction h3
+{
+	
+}
+
+.instruction p
+{
+	font-size:12px;
+}
+
+#other
+{
+	padding-top:20px;
+	text-align:center;
+	font-size:13px;
+}
+
+.about_item
+{
+	font-size:14px;
+}
+
+.gameLight
+{
+	padding:10px;
+	height:71px;
+	background-color: #adadaf;
+	border-top:solid #a9a8ad 1px;
+	border-bottom:solid #8a8a8c 1px;
+}
+
+.gameDark
+{
+	padding:10px;
+	height:71px;
+	background-color: #98979c;
+	border-top:solid #a9a8ad 1px;
+	border-bottom:solid #8a8a8c 1px;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+#gamesnote
+{
+	height:15px;
+	background-color: #98979c;
+	border-top:solid #a9a8ad 1px;
+	border-bottom:solid #8a8a8c 1px;
+	padding:2px;
+	font-size:12px;
+	text-align:center;
+	color:#000;
+}
+
+.gameTitle
+{
+	font-size:16px;
+	width:200px;
+	color:#000;
+	float:right;
+	font-weight:bold;
+	text-shadow: 2px 1px 1px #707072;
+	text-decoration:none;
+}
+
+.gameDescription
+{
+	margin-top:5px;
+	font-size:12px;
+	width:200px;
+	float:right;
+	color:#3b3b3d;
+}
+
+.gameThumb
+{
+	width:57px;
+	height:57px;
+	float:left;
+	-webkit-border-radius:10px;
+	-webkit-box-shadow: 2px 2px 2px #000;
+}
+
+.myMemoryThumb { background-image:url('MyMemoryFreeIcon.jpg'); }
+.artificeThumb { background-image:url('artificeIcon.png'); }
+.swayThumb { background-image:url('Sway.jpg'); }
+.spinThumb { background-image:url('spin.jpg'); }
+.quickDrawThumb { background-image:url('QuickDraw.jpg'); }
+.lexicThumb { background-image:url('Lexic.jpg'); }
+.bobbyCarrotThumb { background-image:url('BobbyCarrot.jpg'); }
+.hexterityThumb { background-image:url('Hexterity.jpg'); }
+.justFillinThumb { background-image:url('JustFillin.jpg'); }
+.numbaThumb { background-image:url('Numba.jpg'); }
+.sapusTongueThumb { background-image:url('SapusTongue.jpg'); }
+.snailMailThumb { background-image:url('SnailMail.jpg'); }
+.aquaHoopsThumb { background-image:url('AquaHoops.jpg'); }
